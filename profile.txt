@@ -1,5 +1,5 @@
 62106638 patchariya ruayjinda
-age: 20
+
 
 62107693 Mubarak Damteh
 age : 20
